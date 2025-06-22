@@ -81,5 +81,5 @@ Feel free to star the repository if you find Nyaay Sathi useful and share your f
 
 ## Contact
 
-For any queries or suggestions, please contact [your-email@example.com].
+For any queries or suggestions, please contact.
 
